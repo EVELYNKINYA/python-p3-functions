@@ -45,7 +45,7 @@ function myFunction(param) {
   console.log("Running myFunction");
   return param + 1;
 }
-```
+``` 
 
 As a quick recap of the syntax here:
 
